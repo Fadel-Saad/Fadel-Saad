@@ -8,7 +8,7 @@
 <br>
 
 ## 💫 About Me:
-🔭 I’m currently working on a Full-stack E-commerce<br>🌱 I’m currently learning Next.JS & Typescript<br>⚡ Fun fact: I like watching UFC
+🔭 I’m currently working on a Full-stack E-commerce website<br>🌱 I’m currently learning Next.JS & Typescript<br>⚡ Fun fact: I like watching UFC
 
 
 ## 🌐 Socials:
